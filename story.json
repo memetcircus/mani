@@ -1,8 +1,4 @@
 {
-  "title": "The Lantern in the Quiet Forest",
-  "chapters": [
-    { "id": 1, "text": "Sentence one.\n\nSentence two…\n\nSentence three." },
-    { "id": 2, "text": "Another paragraph.\n\nAnother paragraph." }
-  ],
-  "closing_line": "Some lights do not push the darkness away… they simply remind us we can walk gently."
+  "narration_text": "The Lantern in the Quiet Forest\n\n\nOn a calm evening, a small lantern glowed at the edge of a quiet forest.\n\n\nThey listened to the wind… and felt safe enough to take one gentle step forward",
+  "closing_line": "Some lights do not push the darkness away..."
 }
